@@ -54,4 +54,4 @@ ou
 2. Desenvolva;
 3. Envie e-mail com o link do seu repositório e sinalizando a entrega para o analista técnico que está te apoiando durante o desenvolvimento.
 
-OBS: Você possui 4 dias para entregar a atividade. Em caso de dúvidas enviar e-mail para walvesm@indracompany.com.
+OBS: Você possui 4 dias para entregar a atividade. Em caso de dúvidas enviar e-mail para o analista que está te apoiando durante o desenvolvimento
